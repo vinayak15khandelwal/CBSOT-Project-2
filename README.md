@@ -105,6 +105,10 @@ CBSOT-Project-2
 - Advanced search ranking
 - Machine learning integration
 - Better user interface
+- Performance optimization
+
+---
+
 ## Author
 
 **Vinayak Khandelwal**
