@@ -50,7 +50,31 @@ The Search Engine notebook demonstrates the implementation of a simple search en
 - Seaborn
 
 ---
+## Installation
 
+Clone the repository:
+
+```bash
+git clone https://github.com/vinayak15khandelwal/CBSOT-Project-2.git
+cd CBSOT-Project-2
+```
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+Open either:
+
+- `EDA.ipynb`
+- `Search_Engine.ipynb`
 ## Repository Structure
 
 ```text
@@ -81,10 +105,6 @@ CBSOT-Project-2
 - Advanced search ranking
 - Machine learning integration
 - Better user interface
-- Performance optimization
-
----
-
 ## Author
 
 **Vinayak Khandelwal**
