@@ -85,3 +85,34 @@ CBSOT-Project-2
 └── README.md
 ```
 
+---
+
+## Learning Outcomes
+
+- Exploratory Data Analysis
+- Data Visualization
+- Data Cleaning
+- Statistical Analysis
+- Information Retrieval
+- Text Processing
+- Search Algorithms
+
+---
+
+## Future Improvements
+
+- Interactive visualizations
+- Advanced search ranking
+- Machine learning integration
+- Better user interface
+- Performance optimization
+
+---
+
+## Author
+
+**Vinayak Khandelwal**
+
+B.Tech Information Technology
+
+Netaji Subhas University of Technology (NSUT)
